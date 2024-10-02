@@ -1,59 +1,48 @@
 criaCartao(
-    'Título 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Título 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Geografia',
+    'Qual a capital do Brasil?',
+    'A capital do Brasil é Brasília'
 )
 
 criaCartao(
-    'Título 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'Programação',
+    'Como fazer um comentario em Python?',
+    'Use o simbolo # antes do texto'
 )
 
 criaCartao(
-    'Título 4',
-    'Pergunta 4',
-    'Resposta 4'
+    'Lingua Espanhola',
+    'Como se diz oi em Espanhol?',
+    'Oi em Espanhol se fala Holla'
+
 )
 
 criaCartao(
-    'Título 5',
-    'Pergunta 5',
-    'Resposta 5'
+    `Lingua Inglesa`,
+    `Como se diz cachorro em Inglês?`
+    `Cachorro em Inglês se diz Dog`
 )
 
 criaCartao(
-    'Título 6',
-    'Pergunta 6',
-    'Resposta 6'
+    `Robotica`
+    `O que é Robotica?`
+    `A ciência que estuda os robos,do desenho a montagem`
 )
 
 criaCartao(
-    'Título 7',
-    'Pergunta 7',
-    'Resposta 7'
+    `Arte`
+    `Quem pitou a Mona Lisa?`
+    `Leonardo da Vinci`
 )
 
 criaCartao(
-    'Título 8',
-    'Pergunta 8',
-    'Resposta 8'
-)
-
-criaCartao(
-    'Título 9',
-    'Pergunta 9',
-    'Resposta 9'
-)
-
-criaCartao(
-    'Título 10',
-    'Pergunta 10',
-    'Resposta 10'
+    `História`
+    `Quem escreveu "Dom Quixote?`
+    `Miguel de Cervantes`
 )
